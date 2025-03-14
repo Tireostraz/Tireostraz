@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... computers
 - 🌱 I’m currently learning ... english
 - 💞️ I’m looking to collaborate on ... microsoft
-- 📫 How to reach me ... call me pls
+- 📫 How to reach me ... don't call me pls
 
 <!---
 Tireostraz/Tireostraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
